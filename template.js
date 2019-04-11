@@ -44,8 +44,8 @@ const content = list => {
 
 const empty = [
   '<div id="exchange-list"><div class="unavailable">',
-  '<h2>No Exchange Available</h2>',
-  '<span>Exchange will update soon</span>',
+  '<h2>Exchange Not Available</h2>',
+  '<span>Exchange list will be update soon</span>',
   '</div></div>'
 ].join('')
 
